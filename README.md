@@ -4,11 +4,11 @@ Gesture Keyboard is a futuristic, browser-based virtual keyboard that lets you *
 
 ## 🔗 Live Preview
 
-🌐 [https://apoorvdarshan.github.io/gesture-keyboard](https://apoorvdarshan.github.io/gesture-keyboard)
+🌐 [https://gesture-keyboard.aopv.dev](https://gesture-keyboard.aopv.dev)
 
 ## 💻 Source Code
 
-📂 [https://github.com/apoorvdarshan/gesture-keyboard](https://github.com/apoorvdarshan/gesture-keyboard)
+📂 [https://github.com/aopv/gesture-keyboard](https://github.com/aopv/gesture-keyboard)
 
 ---
 
@@ -56,4 +56,4 @@ Found this useful or cool? Drop a ⭐ and share with a friend!
 
 ## 👨‍💻 Created by
 
-[Apoorv Darshan](https://github.com/apoorvdarshan)
+[Apoorv Darshan](https://github.com/aopv)
